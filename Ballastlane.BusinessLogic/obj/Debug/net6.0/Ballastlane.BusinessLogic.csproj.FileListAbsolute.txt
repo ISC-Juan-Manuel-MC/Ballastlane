@@ -1,0 +1,5 @@
+D:\Proyectos\Ballastlane\Ballastlane.BusinessLogic\obj\Debug\net6.0\Ballastlane.BusinessLogic.csproj.AssemblyReference.cache
+D:\Proyectos\Ballastlane\Ballastlane.BusinessLogic\obj\Debug\net6.0\Ballastlane.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Ballastlane\Ballastlane.BusinessLogic\obj\Debug\net6.0\Ballastlane.BusinessLogic.AssemblyInfoInputs.cache
+D:\Proyectos\Ballastlane\Ballastlane.BusinessLogic\obj\Debug\net6.0\Ballastlane.BusinessLogic.AssemblyInfo.cs
+D:\Proyectos\Ballastlane\Ballastlane.BusinessLogic\obj\Debug\net6.0\Ballastlane.BusinessLogic.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ballastlane.Data/1.0.0": {
+        "dependencies": {
+          "Ballastlane.Models": "1.0.0"
+        },
+        "runtime": {
+          "Ballastlane.Data.dll": {}
+        }
+      },
+      "Ballastlane.Models/1.0.0": {
+        "runtime": {
+          "Ballastlane.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ballastlane.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ballastlane.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
