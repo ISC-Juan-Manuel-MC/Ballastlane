@@ -1,0 +1,15 @@
+D:\Proyectos\Ballastlane\Ballastlane.Data\bin\Debug\net6.0\Ballastlane.Data.deps.json
+D:\Proyectos\Ballastlane\Ballastlane.Data\bin\Debug\net6.0\Ballastlane.Data.dll
+D:\Proyectos\Ballastlane\Ballastlane.Data\bin\Debug\net6.0\Ballastlane.Data.pdb
+D:\Proyectos\Ballastlane\Ballastlane.Data\bin\Debug\net6.0\Ballastlane.Models.dll
+D:\Proyectos\Ballastlane\Ballastlane.Data\bin\Debug\net6.0\Ballastlane.Models.pdb
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.csproj.AssemblyReference.cache
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.AssemblyInfoInputs.cache
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.AssemblyInfo.cs
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.csproj.CoreCompileInputs.cache
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.csproj.CopyComplete
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.dll
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\refint\Ballastlane.Data.dll
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\Ballastlane.Data.pdb
+D:\Proyectos\Ballastlane\Ballastlane.Data\obj\Debug\net6.0\ref\Ballastlane.Data.dll
